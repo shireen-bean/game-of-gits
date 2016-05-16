@@ -3,3 +3,5 @@ Winterfell, Warden of the North, Hand of the King, Protector of the Realm,
 Regent.  He is surely honorable and will lead a long and prosperous life.
 
 Unfortunately, Ned was found guilty of unspeakable crimes and was beheaded
+
+New character added
